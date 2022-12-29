@@ -1,4 +1,4 @@
-Recipe <EXCLUDE>;Crafts;Ingredient 1;Required X;Ingredient 2;Required X;Ingredient 3;Required X;Ingredient 4;Required X; Category
+Recipe <EXCLUDE>;Crafts;Ingredient 1;Required;Ingredient 2;Required;Ingredient 3;Required;Ingredient 4;Required; Category
 Academy Magic Pot;1;[Common] Essential Alchemic;12;[Rare] Ingenious Alchemic;2;[Magic] Glimmering Substance;4;;;Throwing Pots
 Acid Spraymist;3;[Rare] Ingenious Alchemic;4;[Perfumer] Fragrant Amalgamate;10;[Poison] Noxious Extract;10;;;Aromatics
 Albinauric Pot;1;[Common] Essential Alchemic;8;[Rare] Ingenious Alchemic;2;[Silver] Silvery Amalgamate;6;;;Throwing Pots

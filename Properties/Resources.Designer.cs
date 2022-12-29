@@ -761,11 +761,11 @@ namespace CraftingTool.Properties {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Recipe,Crafts,Ingredient 1,Required X,Ingredient 2,Required X,Ingredient 3,Required X,Ingredient 4,Required X, Category
-        ///Academy Magic Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Magic] Glimmering Substance,4,,,Throwing Pots
-        ///Acid Spraymist,3,[Rare] Ingenious Alchemic,4,[Perfumer] Fragrant Amalgamate,10,[Poison] Noxious Extract,10,,,Aromatics
-        ///Albinauric Pot,1,[Common] Essential Alchemic,8,[Rare] Ingenious Alchemic,2,[Silver] Silvery Amalgamate,6,,,Throwing Pots
-        ///Alluring Pot,1,[Common [obcięto pozostałą część ciągu]&quot;;.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Recipe &lt;EXCLUDE&gt;;Crafts;Ingredient 1;Required;Ingredient 2;Required;Ingredient 3;Required;Ingredient 4;Required; Category
+        ///Academy Magic Pot;1;[Common] Essential Alchemic;12;[Rare] Ingenious Alchemic;2;[Magic] Glimmering Substance;4;;;Throwing Pots
+        ///Acid Spraymist;3;[Rare] Ingenious Alchemic;4;[Perfumer] Fragrant Amalgamate;10;[Poison] Noxious Extract;10;;;Aromatics
+        ///Albinauric Pot;1;[Common] Essential Alchemic;8;[Rare] Ingenious Alchemic;2;[Silver] Silvery Amalgamate;6;;;Throwing Pots
+        ///Alluring Pot;1;[Comm [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         public static string CraftingRecipes {
             get {
@@ -1624,17 +1624,17 @@ namespace CraftingTool.Properties {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu itemName,itemImage
-        ///[Altus] Golden Alchemic,
-        ///[Bloodloss] Bloody Extract,[Bloodloss]-Bloody-Extract
-        ///[Caelid] Aeonian Alchemic,
-        ///[Common] Essential Alchemic,[Common]-Essential-Alchemic
-        ///[Crystal] Crystalline Amalgamate,[Crystal]-Crystalline-Amalgamate
-        ///[Deathblight] Blighted Extract,[Deathblight]-Blighted-Extract
-        ///[Dungeons] Mildewy Amalgamate,[Dungeons]-Mildewy-Amalgamate
-        ///[Fire] Blazing Substance,[Fire]-Blazing-Substance
-        ///[Flesh] Gory Amalgamate,[Flesh]-Gory-Amalgamate
-        ///[Frostbite] Rimed Extract,[Frostbit [obcięto pozostałą część ciągu]&quot;;.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Item Name &lt;EXCLUDE&gt;;Item Image
+        ///[Altus] Golden Alchemic;
+        ///[Bloodloss] Bloody Extract;[Bloodloss]-Bloody-Extract
+        ///[Caelid] Aeonian Alchemic;
+        ///[Common] Essential Alchemic;[Common]-Essential-Alchemic
+        ///[Crystal] Crystalline Amalgamate;[Crystal]-Crystalline-Amalgamate
+        ///[Deathblight] Blighted Extract;[Deathblight]-Blighted-Extract
+        ///[Dungeons] Mildewy Amalgamate;[Dungeons]-Mildewy-Amalgamate
+        ///[Fire] Blazing Substance;[Fire]-Blazing-Substance
+        ///[Flesh] Gory Amalgamate;[Flesh]-Gory-Amalgamate
+        ///[Frostbite] Rimed Extra [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         public static string ItemImages {
             get {
@@ -1677,7 +1677,7 @@ namespace CraftingTool.Properties {
         /// </summary>
         public static System.Drawing.Bitmap Larval_Tear {
             get {
-                object obj = ResourceManager.GetObject("Larval_Tear", resourceCulture);
+                object obj = ResourceManager.GetObject("Larval-Tear", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1853,13 +1853,13 @@ namespace CraftingTool.Properties {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu BaseItem,BaseItemN,Result,ResultN,Description
-        ///Aeonian Butterfly,1,[Scarlet Rot] Scarlet Extract,12,Found near scarlet rot.
-        ///Albinauric Bloodclot,1,[Resin] Adhesive Amalgamate,6,Dropped by Albinaurics.
-        ///Albinauric Bloodclot,1,[Silver] Silvery Amalgamate,8,Dropped by Albinaurics.
-        ///Altus Bloom,1,[Perfumer] Fragrant Amalgamate,3,Found in Altus Plateau.
-        ///Arteria Leaf,1,[Legendary] Miraculous Alchemic,1,Found rarely throghout The Lands Between.
-        ///Beast Blood,1,[Flesh] Gory Amalgamate,12,Dropped by carnivorous bea [obcięto pozostałą część ciągu]&quot;;.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Material &lt;EXCLUDE&gt;;Material Count;Ingredient;Ingredient Count;Description;
+        ///Aeonian Butterfly;1;[Scarlet Rot] Scarlet Extract;12;Found near scarlet rot.;
+        ///Albinauric Bloodclot;1;[Resin] Adhesive Amalgamate;6;Dropped by Albinaurics.;
+        ///Albinauric Bloodclot;1;[Silver] Silvery Amalgamate;8;Dropped by Albinaurics.;
+        ///Altus Bloom;1;[Perfumer] Fragrant Amalgamate;3;Found in Altus Plateau.;
+        ///Arteria Leaf;1;[Legendary] Miraculous Alchemic;1;Found rarely throghout The Lands Between.;
+        ///Beast Blood;1;[Flesh] Gory Amalga [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         public static string MaterialBreakdown {
             get {
