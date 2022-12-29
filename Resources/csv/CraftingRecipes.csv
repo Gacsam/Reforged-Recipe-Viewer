@@ -1,0 +1,109 @@
+Recipe,Crafts,Ingredient 1,Required X,Ingredient 2,Required X,Ingredient 3,Required X,Ingredient 4,Required X, Category
+Academy Magic Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Magic] Glimmering Substance,4,,,Throwing Pots
+Acid Spraymist,3,[Rare] Ingenious Alchemic,4,[Perfumer] Fragrant Amalgamate,10,[Poison] Noxious Extract,10,,,Aromatics
+Albinauric Pot,1,[Common] Essential Alchemic,8,[Rare] Ingenious Alchemic,2,[Silver] Silvery Amalgamate,6,,,Throwing Pots
+Alluring Pot,1,[Common] Essential Alchemic,8,[Rare] Ingenious Alchemic,2,[Silver] Silvery Amalgamate,6,,,Throwing Pots
+Ancient Dragonbolt Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Lightning] Crackling Substance,4,,,Throwing Pots
+Beastlure Pot,1,[Common] Essential Alchemic,8,[Rare] Ingenious Alchemic,2,[Flesh] Gory Amalgamate,6,,,Throwing Pots
+Bewitching Branch,1,[Legendary] Miraculous Alchemic,12,[Bloodloss] Bloody Extract,12,[Sleep] Sedative Extract,12,,,Consumable
+Blightbone Arrow,30,Thin Beast Bones,3,[Deathblight] Blighted Extract,8,Flight Pinion,1,,,Arrows
+Blood Grease,1,[Common] Essential Alchemic,12,[Bloodloss] Bloody Extract,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Bloodboil Aromatic,3,[Legendary] Miraculous Alchemic,1,[Perfumer] Fragrant Amalgamate,10,,,,,Aromatics
+Bloodbone Arrow,30,Thin Beast Bones,3,[Bloodloss] Bloody Extract,8,Flight Pinion,1,,,Arrows
+Bloodbone Bolt,30,Thin Beast Bones,3,[Bloodloss] Bloody Extract,8,,,,,Bolt
+Bone Arrow,50,Thin Beast Bones,3,Flight Pinion,1,,,,,Arrows
+Bone Bolt,50,Thin Beast Bones,3,,,,,,,Bolt
+Bone Dart,4,Thin Beast Bones,1,,,,,,,Throwables
+Bone Great Arrow,10,Hefty Beast Bone,1,Flight Pinion,1,,,,,Arrows
+Clarifying Boluses,1,[Common] Essential Alchemic,15,[Madness] Maddening Extract,10,[Dungeons] Mildewy Amalgamate,10,[Siofra Ainsel] Starry Amalgamate,10,Medicine
+Clarifying Cured Meat,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Sleep] Sedative Extract,10,[Flesh] Gory Amalgamate,10,Resistance
+Clarifying White Cured Meat,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Madness] Maddening Extract,10,[Flesh] Gory Amalgamate,10,Resistance
+Coldbone Arrow,30,Thin Beast Bones,3,[Frostbite] Rimed Extract,8,Flight Pinion,1,,,Arrows
+Coldbone Bolt,30,Thin Beast Bones,3,[Frostbite] Rimed Extract,8,,,,,Bolt
+Crystal Dart,4,Bone Dart,4,[Crystal] Crystalline Amalgamate,1,,,,,Throwables
+Cuckoo Glintstone,1,[Common] Essential Alchemic,4,[Magic] Glimmering Substance,1,,,,,Throwables
+Cursed-Blood Pot,1,[Common] Essential Alchemic,8,[Rare] Ingenious Alchemic,2,[Flesh] Gory Amalgamate,6,,,Throwing Pots
+Dappled Cured Meat,1,[Common] Essential Alchemic,20,[Rare] Ingenious Alchemic,5,[Legendary] Miraculous Alchemic,1,[Flesh] Gory Amalgamate,10,Resistance
+Dappled White Cured Meat,1,[Common] Essential Alchemic,20,[Rare] Ingenious Alchemic,5,[Legendary] Miraculous Alchemic,1,[Flesh] Gory Amalgamate,10,Resistance
+Dragonwound Grease,1,[Common] Essential Alchemic,12,[Lightning] Crackling Substance,8,[Resin] Adhesive Amalgamate,4,[Flesh] Gory Amalgamate,6,Greases
+Exalted Flesh,1,[Common] Essential Alchemic,15,[Legendary] Miraculous Alchemic,1,[Flesh] Gory Amalgamate,16,,,Consumable
+Fetid Pot,1,[Common] Essential Alchemic,10,[Poison] Noxious Extract,4,,,,,Throwing Pots
+Fire Grease,1,[Common] Essential Alchemic,12,[Fire] Blazing Substance,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Fire Pot,1,[Common] Essential Alchemic,10,[Fire] Blazing Substance,4,,,,,Throwing Pots
+Firebone Arrow,30,Thin Beast Bones,3,[Fire] Blazing Substance,8,Flight Pinion,1,,,Arrows
+Firebone Bolt,30,Thin Beast Bones,3,[Fire] Blazing Substance,8,,,,,Bolt
+Fireproof Dried Liver,1,[Common] Essential Alchemic,15,[Fire] Blazing Substance,4,[Flesh] Gory Amalgamate,10,,,Resistance
+Freezing Grease,1,[Common] Essential Alchemic,12,[Frostbite] Rimed Extract,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Freezing Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Frostbite] Rimed Extract,4,,,Throwing Pots
+Frenzybone Arrow,30,Thin Beast Bones,3,[Madness] Maddening Extract,8,Flight Pinion,1,,,Arrows
+Frenzyflame Stone,1,[Madness] Maddening Extract,5,Sanctuary Stone,1,,,,,Medicine
+Frozen Raisin,1,Rimed Rowa,1,,,,,,,Medicine
+Giantsflame Fire Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Fire] Blazing Substance,4,,,Throwing Pots
+Glowstone,1,Ruin Fragment,1,[Siofra Ainsel] Starry Amalgamate,6,,,,,Misc
+Golden Rune [10000],1,[Common] Essential Alchemic,20,Ruin Fragment,3,,,,,Consumable
+Golden Rune [2000],1,[Common] Essential Alchemic,20,Ruin Fragment,3,,,,,Consumable
+Gold-Pickled Fowl Foot,1,[Common] Essential Alchemic,15,[Gold] Golden Amalgamate,8,Four-Toed Fowl Foot,1,,,Consumable
+Grace Mimic,1,[Common] Essential Alchemic,1,,,,,,,Misc
+Haligbone Arrow,30,Thin Beast Bones,3,[Holy] Blessed Substance,8,Flight Pinion,1,,,Arrows
+Haligbone Bolt,30,Thin Beast Bones,3,[Holy] Blessed Substance,8,,,,,Bolt
+Holy Grease,1,[Common] Essential Alchemic,12,[Holy] Blessed Substance,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Holy Water Pot,1,[Common] Essential Alchemic,10,[Holy] Blessed Substance,4,,,,,Throwing Pots
+Holyproof Dried Liver,1,[Common] Essential Alchemic,15,[Holy] Blessed Substance,4,[Flesh] Gory Amalgamate,10,,,Resistance
+Immunizing Cured Meat,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Poison] Noxious Extract,10,[Flesh] Gory Amalgamate,10,Resistance
+Immunizing White Cured Meat,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Scarlet Rot] Scarlet Extract,10,[Flesh] Gory Amalgamate,10,Resistance
+Invigorating Cured Meat,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Bloodloss] Bloody Extract,10,[Flesh] Gory Amalgamate,10,Resistance
+Invigorating White Cured Meat,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Frostbite] Rimed Extract,10,[Flesh] Gory Amalgamate,10,Resistance
+Ironjar Aromatic,3,[Legendary] Miraculous Alchemic,1,[Perfumer] Fragrant Amalgamate,10,,,,,Aromatics
+Larval Tear,1,[Legendary] Miraculous Alchemic,3,[Silver] Silvery Amalgamate,24,,,,,Consumable
+Lightning Grease,1,[Common] Essential Alchemic,12,[Lightning] Crackling Substance,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Lightning Pot,1,[Common] Essential Alchemic,10,[Lightning] Crackling Substance,4,,,,,Throwing Pots
+Lightningbone Arrow,30,Thin Beast Bones,3,[Lightning] Crackling Substance,8,Flight Pinion,1,,,Arrows
+Lightningbone Bolt,30,Thin Beast Bones,3,[Lightning] Crackling Substance,8,,,,,Bolt
+Lightningproof Dried Liver,1,[Common] Essential Alchemic,15,[Lightning] Crackling Substance,4,[Flesh] Gory Amalgamate,10,,,Resistance
+Magic Grease,1,[Common] Essential Alchemic,12,[Magic] Glimmering Substance,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Magic Pot,1,[Common] Essential Alchemic,8,[Magic] Glimmering Substance,4,,,,,Throwing Pots
+Magicbone Arrow,30,Thin Beast Bones,3,[Magic] Glimmering Substance,8,Flight Pinion,1,,,Arrows
+Magicbone Bolt,30,Thin Beast Bones,3,[Magic] Glimmering Substance,8,,,,,Bolt
+Neutralizing Boluses,1,[Common] Essential Alchemic,15,[Poison] Noxious Extract,10,[Dungeons] Mildewy Amalgamate,10,,,Medicine
+Oil Pot,1,[Common] Essential Alchemic,10,[Siofra Ainsel] Starry Amalgamate,6,,,,,Throwing Pots
+Pickled Turtle Neck,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Flesh] Gory Amalgamate,10,,,Consumable
+Poison Grease,1,[Common] Essential Alchemic,12,[Poison] Noxious Extract,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Poison Pot,1,[Common] Essential Alchemic,10,[Poison] Noxious Extract,4,,,,,Throwing Pots
+Poison Spraymist,3,[Rare] Ingenious Alchemic,4,[Perfumer] Fragrant Amalgamate,10,[Poison] Noxious Extract,10,,,Aromatics
+Poisonbone Arrow,30,Thin Beast Bones,3,[Poison] Noxious Extract,8,Flight Pinion,1,,,Arrows
+Poisonbone Bolt,30,Thin Beast Bones,3,[Poison] Noxious Extract,8,,,,,Bolt
+Poisonbone Dart,4,Bone Dart,4,[Poison] Noxious Extract,1,,,,,Throwables
+Preserving Boluses,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Scarlet Rot] Scarlet Extract,10,[Dungeons] Mildewy Amalgamate,10,Medicine
+Rainbow Stone,1,Ruin Fragment,1,,,,,,,Misc
+Rainbow Stone Arrow,40,Thin Beast Bones,3,Rainbow Stone,2,Flight Pinion,1,,,Arrows
+Rancor Pot,1,[Common] Essential Alchemic,8,[Dungeons] Mildewy Amalgamate,6,,,,,Throwing Pots
+Redmane Fire Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Fire] Blazing Substance,4,,,Throwing Pots
+Rejuvenating Boluses,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Holy] Blessed Substance,10,[Dungeons] Mildewy Amalgamate,10,Medicine
+Rot Grease,1,[Common] Essential Alchemic,12,[Scarlet Rot] Scarlet Extract,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Rot Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Scarlet Rot] Scarlet Extract,4,,,Throwing Pots
+Rotbone Arrow,30,Thin Beast Bones,3,[Scarlet Rot] Scarlet Extract,8,Flight Pinion,1,,,Arrows
+Rotbone Bolt,30,Thin Beast Bones,3,[Scarlet Rot] Scarlet Extract,8,,,,,Bolt
+Rowa Raisin,1,Rowa Fruit,1,,,,,,,Medicine
+Rune Arc,1,[Rare] Ingenious Alchemic,10,[Gold] Golden Amalgamate,12,,,,,Consumable
+Sacred Order Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Holy] Blessed Substance,4,,,Throwing Pots
+Scriptstone,1,[Rare] Ingenious Alchemic,2,Ruin Fragment,1,,,,,Misc
+Shattershard Arrow,40,Thin Beast Bones,3,[Crystal] Crystalline Amalgamate,6,Flight Pinion,1,,,Arrows
+Shield Grease,2,[Resin] Adhesive Amalgamate,4,[Magic] Glimmering Substance,8,[Silver] Silvery Amalgamate,6,,,Greases
+Silver-Pickled Fowl Foot,1,[Common] Essential Alchemic,15,[Silver] Silvery Amalgamate,8,Four-Toed Fowl Foot,1,,,Consumable
+Sleep Pot,1,[Common] Essential Alchemic,8,[Sleep] Sedative Extract,4,,,,,Throwing Pots
+Sleepbone Arrow,30,Thin Beast Bones,3,[Sleep] Sedative Extract,8,Flight Pinion,1,,,Arrows
+Sleepbone Bolt,30,Thin Beast Bones,3,[Sleep] Sedative Extract,8,,,,,Bolt
+Soap,1,[Siofra Ainsel] Starry Amalgamate,12,,,,,,,Misc
+Soft Cotton,1,[Common] Essential Alchemic,10,[Fire] Blazing Substance,2,,,,,Misc
+Soporific Grease,1,[Common] Essential Alchemic,12,[Sleep] Sedative Extract,10,[Resin] Adhesive Amalgamate,4,,,Greases
+Spark Aromatic,3,[Rare] Ingenious Alchemic,4,[Perfumer] Fragrant Amalgamate,10,[Fire] Blazing Substance,4,,,Aromatics
+Spellproof Dried Liver,1,[Common] Essential Alchemic,15,[Magic] Glimmering Substance,4,[Flesh] Gory Amalgamate,10,,,Resistance
+Stanching Boluses,1,[Common] Essential Alchemic,15,[Bloodloss] Bloody Extract,10,[Dungeons] Mildewy Amalgamate,10,,,Medicine
+Stimulating Boluses,1,[Common] Essential Alchemic,15,[Rare] Ingenious Alchemic,3,[Sleep] Sedative Extract,10,[Dungeons] Mildewy Amalgamate,10,Medicine
+Stormwing Bone Arrow,10,Thin Beast Bones,3,Stormhawk Feather,1,,,,,Arrows
+Swarm Pot,1,[Common] Essential Alchemic,10,[Bloodloss] Bloody Extract,4,,,,,Throwing Pots
+Sweet Raisin,1,Golden Rowa,1,,,,,,,Medicine
+Thawfrost Boluses,1,[Common] Essential Alchemic,15,[Frostbite] Rimed Extract,10,[Dungeons] Mildewy Amalgamate,10,[Siofra Ainsel] Starry Amalgamate,10,Medicine
+Uplifting Aromatic,3,[Legendary] Miraculous Alchemic,1,[Perfumer] Fragrant Amalgamate,10,[Silver] Silvery Amalgamate,4,,,Aromatics
+Volcano Pot,1,[Common] Essential Alchemic,8,[Fire] Blazing Substance,4,,,,,Throwing Pots
+Warming Stone,1,[Common] Essential Alchemic,12,[Fire] Blazing Substance,2,Sanctuary Stone,1,,,Medicine
