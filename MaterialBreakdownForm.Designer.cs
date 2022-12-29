@@ -1,7 +1,7 @@
 ﻿
 namespace CraftingTool
 {
-    partial class IngredientForm
+    partial class MaterialBreakdownForm
     {
         /// <summary>
         /// Required designer variable.
@@ -32,7 +32,7 @@ namespace CraftingTool
             this.components = new System.ComponentModel.Container();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.materialList = new System.Windows.Forms.ListBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -51,14 +51,14 @@ namespace CraftingTool
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
-            // listBox1
+            // materialList
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(12, 74);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(200, 199);
-            this.listBox1.TabIndex = 1;
-            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
+            this.materialList.FormattingEnabled = true;
+            this.materialList.Location = new System.Drawing.Point(12, 74);
+            this.materialList.Name = "materialList";
+            this.materialList.Size = new System.Drawing.Size(200, 199);
+            this.materialList.TabIndex = 1;
+            this.materialList.SelectedIndexChanged += new System.EventHandler(this.MaterialList_SelectedIndexChanged);
             // 
             // pictureBox1
             // 
@@ -100,15 +100,18 @@ namespace CraftingTool
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(467, 373);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.materialList);
+            this.MaximizeBox = false;
             this.Name = "IngredientForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.IngredientForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -118,7 +121,7 @@ namespace CraftingTool
         #endregion
         private System.Windows.Forms.ImageList imageList1;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox materialList;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;

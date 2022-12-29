@@ -401,21 +401,6 @@ namespace CraftingTool.Properties {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu BaseItem,BaseItemN,Result,ResultN,Description
-        ///Rowa Fruit,1,[Common] Essential Alchemic,2,Found easily throughout The Lands Between.
-        ///Herba,1,[Common] Essential Alchemic,3,Found in thickets and elsewhere.
-        ///Erdleaf Flower,1,[Common] Essential Alchemic,3,Found easily throughout The Lands Between.
-        ///Mushroom,1,[Common] Essential Alchemic,4,Found in damp thickets and elsewhere.
-        ///Faded Erdleaf Flower,1,[Common] Essential Alchemic,4,Found in Caelid and Dragonbarrow.
-        ///Golden Rowa,1,[Common] Essential Alchemic,4,Fou [obcięto pozostałą część ciągu]&quot;;.
-        /// </summary>
-        public static string BaseItemConversion {
-            get {
-                return ResourceManager.GetString("BaseItemConversion", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
         public static System.Drawing.Bitmap Basilisk_Eye {
@@ -772,6 +757,19 @@ namespace CraftingTool.Properties {
             get {
                 object obj = ResourceManager.GetObject("Cracked-Crystal", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Recipe,Crafts,Ingredient 1,Required X,Ingredient 2,Required X,Ingredient 3,Required X,Ingredient 4,Required X, Category
+        ///Academy Magic Pot,1,[Common] Essential Alchemic,12,[Rare] Ingenious Alchemic,2,[Magic] Glimmering Substance,4,,,Throwing Pots
+        ///Acid Spraymist,3,[Rare] Ingenious Alchemic,4,[Perfumer] Fragrant Amalgamate,10,[Poison] Noxious Extract,10,,,Aromatics
+        ///Albinauric Pot,1,[Common] Essential Alchemic,8,[Rare] Ingenious Alchemic,2,[Silver] Silvery Amalgamate,6,,,Throwing Pots
+        ///Alluring Pot,1,[Common [obcięto pozostałą część ciągu]&quot;;.
+        /// </summary>
+        public static string CraftingRecipes {
+            get {
+                return ResourceManager.GetString("CraftingRecipes", resourceCulture);
             }
         }
         
@@ -1638,23 +1636,9 @@ namespace CraftingTool.Properties {
         ///[Flesh] Gory Amalgamate,[Flesh]-Gory-Amalgamate
         ///[Frostbite] Rimed Extract,[Frostbit [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
-        public static string ItemList {
+        public static string ItemImages {
             get {
-                return ResourceManager.GetString("ItemList", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Recipe,Crafts,Ingredient 1,Required X,Ingredient 2,Required X,Ingredient 3,Required X,Ingredient 4,Required X, Category
-        ///Grace Mimic,1,[Common] Essential Alchemic,1,,,,,,,Misc
-        ///Rune Arc,1,[Rare] Ingenious Alchemic,10,[Gold] Golden Amalgamate,12,,,,,Consumable
-        ///Larval Tear,1,[Legendary] Miraculous Alchemic,3,[Silver] Silvery Amalgamate,24,,,,,Consumable
-        ///Golden Rune [2000],1,[Common] Essential Alchemic,20,Ruin Fragment,3,,,,,Consumable
-        ///Golden Rune [10000],1,[Common] Essential Alchemic,20,Ruin Fragment,3,,,, [obcięto pozostałą część ciągu]&quot;;.
-        /// </summary>
-        public static string ItemRecipes {
-            get {
-                return ResourceManager.GetString("ItemRecipes", resourceCulture);
+                return ResourceManager.GetString("ItemImages", resourceCulture);
             }
         }
         
@@ -1865,6 +1849,21 @@ namespace CraftingTool.Properties {
             get {
                 object obj = ResourceManager.GetObject("Magicbone-Bolt", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu BaseItem,BaseItemN,Result,ResultN,Description
+        ///Aeonian Butterfly,1,[Scarlet Rot] Scarlet Extract,12,Found near scarlet rot.
+        ///Albinauric Bloodclot,1,[Resin] Adhesive Amalgamate,6,Dropped by Albinaurics.
+        ///Albinauric Bloodclot,1,[Silver] Silvery Amalgamate,8,Dropped by Albinaurics.
+        ///Altus Bloom,1,[Perfumer] Fragrant Amalgamate,3,Found in Altus Plateau.
+        ///Arteria Leaf,1,[Legendary] Miraculous Alchemic,1,Found rarely throghout The Lands Between.
+        ///Beast Blood,1,[Flesh] Gory Amalgamate,12,Dropped by carnivorous bea [obcięto pozostałą część ciągu]&quot;;.
+        /// </summary>
+        public static string MaterialBreakdown {
+            get {
+                return ResourceManager.GetString("MaterialBreakdown", resourceCulture);
             }
         }
         
