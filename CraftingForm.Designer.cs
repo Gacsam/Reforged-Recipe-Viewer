@@ -188,7 +188,6 @@ namespace CraftingTool
             this.recipeBox.Location = new System.Drawing.Point(24, 44);
             this.recipeBox.Name = "recipeBox";
             this.recipeBox.Size = new System.Drawing.Size(302, 121);
-            this.recipeBox.Sorted = true;
             this.recipeBox.TabIndex = 9;
             this.recipeBox.SelectedIndexChanged += new System.EventHandler(this.ItemList_SelectedIndexChanged);
             // 

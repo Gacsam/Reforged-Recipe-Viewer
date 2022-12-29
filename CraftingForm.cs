@@ -1,11 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace CraftingTool
@@ -70,8 +65,8 @@ namespace CraftingTool
             }
             else
             {
-            ingredientOne.Image = (Image)Properties.Resources.ResourceManager.GetObject(currentRecipe.ingredientOneItem.imageDir);
-            textBox2.Text = currentRecipe.ingredientOneItem.itemName + " X " + currentRecipe.ingredientOneCount;
+                ingredientOne.Image = (Image)Properties.Resources.ResourceManager.GetObject(currentRecipe.ingredientOneItem.imageDir);
+                textBox2.Text = currentRecipe.ingredientOneItem.itemName + " X " + currentRecipe.ingredientOneCount;
             }
 
             if (currentRecipe.ingredientTwoItem == null)
