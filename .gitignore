@@ -2,7 +2,6 @@
 # Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
 ################################################################################
 
-/bin/Debug
-/bin/Release
+/bin
 /obj
-/.vs/CraftingTool/v16
+/.vs
