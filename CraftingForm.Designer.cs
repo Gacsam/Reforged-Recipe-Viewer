@@ -55,6 +55,7 @@ namespace CraftingTool
             // 
             // recipeImage
             // 
+            this.recipeImage.BackColor = System.Drawing.SystemColors.Control;
             this.recipeImage.Location = new System.Drawing.Point(359, 5);
             this.recipeImage.Name = "recipeImage";
             this.recipeImage.Size = new System.Drawing.Size(200, 200);
@@ -65,6 +66,7 @@ namespace CraftingTool
             // ingredientOne
             // 
             this.ingredientOne.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.ingredientOne.BackColor = System.Drawing.SystemColors.Control;
             this.ingredientOne.Location = new System.Drawing.Point(51, 3);
             this.ingredientOne.Name = "ingredientOne";
             this.ingredientOne.Size = new System.Drawing.Size(164, 164);
@@ -119,6 +121,7 @@ namespace CraftingTool
             // ingredientFour
             // 
             this.ingredientFour.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.ingredientFour.BackColor = System.Drawing.SystemColors.Control;
             this.ingredientFour.Location = new System.Drawing.Point(320, 214);
             this.ingredientFour.Name = "ingredientFour";
             this.ingredientFour.Size = new System.Drawing.Size(164, 154);
@@ -130,6 +133,7 @@ namespace CraftingTool
             // ingredientThree
             // 
             this.ingredientThree.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.ingredientThree.BackColor = System.Drawing.SystemColors.Control;
             this.ingredientThree.Location = new System.Drawing.Point(51, 214);
             this.ingredientThree.Name = "ingredientThree";
             this.ingredientThree.Size = new System.Drawing.Size(164, 154);
@@ -141,6 +145,7 @@ namespace CraftingTool
             // ingredientTwo
             // 
             this.ingredientTwo.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.ingredientTwo.BackColor = System.Drawing.SystemColors.Control;
             this.ingredientTwo.Location = new System.Drawing.Point(320, 3);
             this.ingredientTwo.Name = "ingredientTwo";
             this.ingredientTwo.Size = new System.Drawing.Size(164, 164);
@@ -203,10 +208,10 @@ namespace CraftingTool
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.label2.Location = new System.Drawing.Point(327, 47);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(42, 20);
+            this.label2.Size = new System.Drawing.Size(0, 20);
             this.label2.TabIndex = 11;
             // 
-            // CraftForm
+            // CraftingForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -218,7 +223,7 @@ namespace CraftingTool
             this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.recipeImage);
             this.MaximizeBox = false;
-            this.Name = "CraftForm";
+            this.Name = "CraftingForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.CraftForm_Load);

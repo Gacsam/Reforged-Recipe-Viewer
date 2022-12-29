@@ -24,10 +24,10 @@ namespace CraftingTool
             string[] allItemsCSV = Properties.Resources.ItemImages.Replace("\r", "").Split(charSeparators, StringSplitOptions.RemoveEmptyEntries);
             foreach (string item in allItemsCSV)
             {
-                if (item.Contains("itemName"))
+                // skip the header
+                if (item.Contains("<EXCLUDE>"))
                     continue;
-                // Get rid of the bloody \r and split into two columns
-                string[] columns = item.TrimEnd('\r').Split(',');
+                string[] columns = item.Split(';');
                 itemsWithImages.Add(new ItemWithImage(columns[0], columns[1]));
             }
 
@@ -35,10 +35,11 @@ namespace CraftingTool
             string[] baseItemsCSV = Properties.Resources.MaterialBreakdown.Replace("\r", "").Split(charSeparators, StringSplitOptions.RemoveEmptyEntries);
             foreach (string item in baseItemsCSV) 
             {
-                if (item.Contains("BaseItem"))
+                // skip the header
+                if (item.Contains("<EXCLUDE>"))
                     continue;
 
-                string[] columns = item.TrimEnd('\r').Split(',');
+                string[] columns = item.Split(';');
                 ItemWithImage baseItem = itemsWithImages.Find(x => x.itemName.Equals(columns[0]));
                 ItemWithImage craftedItem = itemsWithImages.Find(x => x.itemName.Equals(columns[2]));
                 baseItems.Add(new MaterialBreakdown(baseItem, byte.Parse(columns[1]), craftedItem, columns[3], columns[4]));
@@ -48,10 +49,11 @@ namespace CraftingTool
             List<CraftingRecipe> craftingRecipes = new List<CraftingRecipe>();
             foreach (string item in craftingCSV)
             {
-                if (item.Contains("Recipe"))
+                // skip the header
+                if (item.Contains("<EXCLUDE>"))
                     continue;
 
-                string[] columns = item.Split(',');
+                string[] columns = item.Split(';');
                 ItemWithImage craftedItem = itemsWithImages.Find(x => x.itemName.Equals(columns[0]));
                 byte.TryParse(columns[1], out byte craftedItemCount);
                 byte.TryParse(columns[3], out byte ingredientOneCount);

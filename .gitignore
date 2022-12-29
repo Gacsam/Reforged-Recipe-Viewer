@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug
+/bin/Release
+/obj
+/.vs/CraftingTool/v16

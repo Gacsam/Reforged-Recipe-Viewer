@@ -1,74 +1,75 @@
-BaseItem,BaseItemN,Result,ResultN,Description
-Aeonian Butterfly,1,[Scarlet Rot] Scarlet Extract,12,Found near scarlet rot.
-Albinauric Bloodclot,1,[Resin] Adhesive Amalgamate,6,Dropped by Albinaurics.
-Albinauric Bloodclot,1,[Silver] Silvery Amalgamate,8,Dropped by Albinaurics.
-Altus Bloom,1,[Perfumer] Fragrant Amalgamate,3,Found in Altus Plateau.
-Arteria Leaf,1,[Legendary] Miraculous Alchemic,1,Found rarely throghout The Lands Between.
-Beast Blood,1,[Flesh] Gory Amalgamate,12,Dropped by carnivorous beasts.
-Beast Liver,1,[Flesh] Gory Amalgamate,3,Dropped by herbivorous beasts.
-Bloodrose,1,[Bloodloss] Bloody Extract,4,Found near blood-soaked soil.
-Blood-Tainted Excrement,1,[Bloodloss] Bloody Extract,8,Found at/near Mohgwyn Palace.
-Budding Cave Moss,1,[Perfumer] Fragrant Amalgamate,4,Found at/near dark caves.
-Budding Horn,1,[Rare] Ingenious Alchemic,6,Dropped by herbivorous beasts.
-Cave Moss,1,[Dungeons] Mildewy Amalgamate,2,Found in dark caves.
-Crab Eggs,1,[Rare] Ingenious Alchemic,6,Dropped by Crabs.
-Cracked Crystal,1,[Magic] Glimmering Substance,2,Found in crystal caves.
-Cracked Crystal,1,[Crystal] Crystalline Amalgamate,1,Found in crystal caves.
-Crystal Bud,1,[Magic] Glimmering Substance,4,Found in Liurnia of the Lakes.
-Crystal Cave Moss,1,[Magic] Glimmering Substance,4,Found in dark caves.
-Crystal Cave Moss,1,[Dungeons] Mildewy Amalgamate,3,Found in dark caves.
-Crystal Cave Moss,1,[Crystal] Crystalline Amalgamate,3,Found in dark caves.
-Dewkissed Herba,1,[Siofra Ainsel] Starry Amalgamate,3,Found in underground cities.
-Erdleaf Flower,1,[Common] Essential Alchemic,3,Found easily throughout The Lands Between.
-Eye of Death,1,[Deathblight] Blighted Extract,8,Dropped by Basilisks.
-Eye of Yelough,1,[Madness] Maddening Extract,6,Found in lands afflicted by frenzy.
-Faded Erdleaf Flower,1,[Common] Essential Alchemic,4,Found in Caelid and Dragonbarrow.
-Faded Erdleaf Flower,1,[Scarlet Rot] Scarlet Extract,3,Found in Caelid and Dragonbarrow.
-Fire Blossom,1,[Fire] Blazing Substance,3,Found in the Mountaintops of the Giants.
-Formic Rock,1,[Rare] Ingenious Alchemic,6,Found at/near Ainsel River and other places where giant ants live.
-Formic Rock,1,[Scarlet Rot] Scarlet Extract,8,Found at/near Ainsel River and other places where giant ants live.
-Fulgurbloom,1,[Lightning] Crackling Substance,6,Found in lightning-struck lands.
-Glintstone Firefly,1,[Magic] Glimmering Substance,3,Found at/near Liurnia of the Lakes.
-Gold Firefly,1,[Gold] Golden Amalgamate,4,Found in waters close to Minor Erdrees.
-Golden Centipede,1,[Holy] Blessed Substance,8,Found near churches and similar.
-Golden Rowa,1,[Common] Essential Alchemic,4,Found in Altus Plateau.
-Golden Sunflower,1,[Holy] Blessed Substance,2,Found near Minor Erdtrees.
-Gold-Tinged Excrement,1,[Poison] Noxious Extract,8,Found in woods and thickets.
-Gold-Tinged Excrement,1,[Resin] Adhesive Amalgamate,4,Found in woods and thickets.
-Gold-Tinged Excrement,1,[Gold] Golden Amalgamate,6,Found in woods and thickets.
-Grave Violet,1,[Dungeons] Mildewy Amalgamate,5,Found at/near graveyards and catacombs.
-Gravel Stone,1,[Lightning] Crackling Substance,12,Found in lands once beset by ancient dragons.
-Great Dragonfly Head,1,[Rare] Ingenious Alchemic,4,Dropped by Giant Dragonfly.
-Great Dragonfly Head,1,[Poison] Noxious Extract,10,Dropped by Giant Dragonfly.
-Herba,1,[Common] Essential Alchemic,3,Found in thickets and elsewhere.
-Human Bone Shard,1,[Rare] Ingenious Alchemic,6,Found by hunting Those Who Live in Death.
-Land Octopus Ovary,1,[Rare] Ingenious Alchemic,6,Dropped by Land Octopus.
-Living Jar Shard,1,[Rare] Ingenious Alchemic,2,Dropped by Living Jars.
-Lump of Flesh,1,[Flesh] Gory Amalgamate,6,Dropped by carnivorous beasts.
-Melted Mushroom,1,[Siofra Ainsel] Starry Amalgamate,3,Found in and around the Eternal City.
-Melted Mushroom,1,[Silver] Silvery Amalgamate,2,Found in and around the Eternal City.
-Miquella's Lily,1,[Legendary] Miraculous Alchemic,1,Found rarely throughout The Lands Between
-Miranda Powder,1,[Perfumer] Fragrant Amalgamate,18,Dropped by Miranda Sprouts.
-Mushroom,1,[Common] Essential Alchemic,4,Found in damp thickets and elsewhere.
-Nascent Butterfly,1,[Rare] Ingenious Alchemic,12,Found rarely throughout The Lands Between.
-Old Fang,1,[Rare] Ingenious Alchemic,6,Dropped by carnivorous beasts.
-Poisonbloom,1,[Poison] Noxious Extract,6,Found on poisoned ground.
-Rimed Crystal Bud,1,[Frostbite] Rimed Extract,3,Found in cold regions.
-Rimed Rowa,1,[Common] Essential Alchemic,5,Found in Mountaintops of the Giants.
-Rimed Rowa,1,[Frostbite] Rimed Extract,3,Found in Mountaintops of the Giants.
-Root Resin,1,[Resin] Adhesive Amalgamate,4,Found near trees or the roots of the Greattree.
-Rowa Fruit,1,[Common] Essential Alchemic,2,Found easily throughout The Lands Between.
-Sacramental Bud,1,[Bloodloss] Bloody Extract,8,Found exceedingly rarely throughout The Lands Between.
-Sanctuary Stone,1,[Gold] Golden Amalgamate,2,Found rarely near the remains of fallen ruins.
-Silver Firefly,1,[Silver] Silvery Amalgamate,4,Found near cold waters untouched by sunlight.
-Silver Tear Husk,1,[Silver] Silvery Amalgamate,3,Found in and around the Eternal City.
-Sliver of Meat,1,[Flesh] Gory Amalgamate,3,Dropped by herbivorous beasts.
-Slumbering Egg,1,[Sleep] Sedative Extract,10,Dropped by Owl.
-Smoldering Butterfly,1,[Fire] Blazing Substance,9,Found near wildfires and elsewhere.
-Strip of White Flesh,1,[Flesh] Gory Amalgamate,3,Dropped by creatures devoid of blood.
-Tarnished Golden Sunflower,1,[Holy] Blessed Substance,1,Found near Minor Erdtrees.
-Toxic Mushroom,1,[Scarlet Rot] Scarlet Extract,4,Found at/near rotten lands.
-Trina's Lily,1,[Sleep] Sedative Extract,12,Found exceedingly rarely throughout The Lands Between.
-Turtle Neck Meat,1,[Flesh] Gory Amalgamate,4,"Dropped by Miriel, Pastor of Vows."
-Volcanic Stone,1,[Fire] Blazing Substance,1,Found near Mt. Gelmir.
-Yellow Ember,1,[Madness] Maddening Extract,4,Found at/near  lands afflicted by frenzy.
+Material <EXCLUDE>;Material Count;Ingredient;Ingredient Count;Description;
+Aeonian Butterfly;1;[Scarlet Rot] Scarlet Extract;12;Found near scarlet rot.;
+Albinauric Bloodclot;1;[Resin] Adhesive Amalgamate;6;Dropped by Albinaurics.;
+Albinauric Bloodclot;1;[Silver] Silvery Amalgamate;8;Dropped by Albinaurics.;
+Altus Bloom;1;[Perfumer] Fragrant Amalgamate;3;Found in Altus Plateau.;
+Arteria Leaf;1;[Legendary] Miraculous Alchemic;1;Found rarely throghout The Lands Between.;
+Beast Blood;1;[Flesh] Gory Amalgamate;12;Dropped by carnivorous beasts.;
+Beast Liver;1;[Flesh] Gory Amalgamate;3;Dropped by herbivorous beasts.;
+Bloodrose;1;[Bloodloss] Bloody Extract;4;Found near blood-soaked soil.;
+Blood-Tainted Excrement;1;[Bloodloss] Bloody Extract;8;Found at/near Mohgwyn Palace.;
+Budding Cave Moss;1;[Perfumer] Fragrant Amalgamate;4;Found at/near dark caves.;
+Budding Horn;1;[Rare] Ingenious Alchemic;6;Dropped by herbivorous beasts.;
+Cave Moss;1;[Dungeons] Mildewy Amalgamate;2;Found in dark caves.;
+Crab Eggs;1;[Rare] Ingenious Alchemic;6;Dropped by Crabs.;
+Cracked Crystal;1;[Magic] Glimmering Substance;2;Found in crystal caves.;
+Cracked Crystal;1;[Crystal] Crystalline Amalgamate;1;Found in crystal caves.;
+Crystal Bud;1;[Magic] Glimmering Substance;4;Found in Liurnia of the Lakes.;
+Crystal Cave Moss;1;[Magic] Glimmering Substance;4;Found in dark caves.;
+Crystal Cave Moss;1;[Dungeons] Mildewy Amalgamate;3;Found in dark caves.;
+Crystal Cave Moss;1;[Crystal] Crystalline Amalgamate;3;Found in dark caves.;
+Dewkissed Herba;1;[Siofra Ainsel] Starry Amalgamate;3;Found in underground cities.;
+Erdleaf Flower;1;[Common] Essential Alchemic;3;Found easily throughout The Lands Between.;
+Eye of Death;1;[Deathblight] Blighted Extract;8;Dropped by Basilisks.;
+Eye of Yelough;1;[Madness] Maddening Extract;6;Found in lands afflicted by frenzy.;
+Faded Erdleaf Flower;1;[Common] Essential Alchemic;4;Found in Caelid and Dragonbarrow.;
+Faded Erdleaf Flower;1;[Scarlet Rot] Scarlet Extract;3;Found in Caelid and Dragonbarrow.;
+Fire Blossom;1;[Fire] Blazing Substance;3;Found in the Mountaintops of the Giants.;
+Formic Rock;1;[Rare] Ingenious Alchemic;6;Found at/near Ainsel River and other places where giant ants live.;
+Formic Rock;1;[Scarlet Rot] Scarlet Extract;8;Found at/near Ainsel River and other places where giant ants live.;
+Fulgurbloom;1;[Lightning] Crackling Substance;6;Found in lightning-struck lands.;
+Glintstone Firefly;1;[Magic] Glimmering Substance;3;Found at/near Liurnia of the Lakes.;
+Gold Firefly;1;[Gold] Golden Amalgamate;4;Found in waters close to Minor Erdrees.;
+Golden Centipede;1;[Holy] Blessed Substance;8;Found near churches and similar.;
+Golden Rowa;1;[Common] Essential Alchemic;4;Found in Altus Plateau.;
+Golden Sunflower;1;[Holy] Blessed Substance;2;Found near Minor Erdtrees.;
+Gold-Tinged Excrement;1;[Poison] Noxious Extract;8;Found in woods and thickets.;
+Gold-Tinged Excrement;1;[Resin] Adhesive Amalgamate;4;Found in woods and thickets.;
+Gold-Tinged Excrement;1;[Gold] Golden Amalgamate;6;Found in woods and thickets.;
+Grave Violet;1;[Dungeons] Mildewy Amalgamate;5;Found at/near graveyards and catacombs.;
+Gravel Stone;1;[Lightning] Crackling Substance;12;Found in lands once beset by ancient dragons.;
+Great Dragonfly Head;1;[Rare] Ingenious Alchemic;4;Dropped by Giant Dragonfly.;
+Great Dragonfly Head;1;[Poison] Noxious Extract;10;Dropped by Giant Dragonfly.;
+Herba;1;[Common] Essential Alchemic;3;Found in thickets and elsewhere.;
+Human Bone Shard;1;[Rare] Ingenious Alchemic;6;Found by hunting Those Who Live in Death.;
+Land Octopus Ovary;1;[Rare] Ingenious Alchemic;6;Dropped by Land Octopus.;
+Land Octopus Ovary;1;[Bloodloss] Bloody Extract;6;Land Octopus Ovary;
+Living Jar Shard;1;[Rare] Ingenious Alchemic;2;Dropped by Living Jars.;
+Lump of Flesh;1;[Flesh] Gory Amalgamate;6;Dropped by carnivorous beasts.;
+Melted Mushroom;1;[Siofra Ainsel] Starry Amalgamate;3;Found in and around the Eternal City.;
+Melted Mushroom;1;[Silver] Silvery Amalgamate;2;Found in and around the Eternal City.;
+Miquella's Lily;1;[Legendary] Miraculous Alchemic;1;Found rarely throughout The Lands Between;
+Miranda Powder;1;[Perfumer] Fragrant Amalgamate;18;Dropped by Miranda Sprouts.;
+Mushroom;1;[Common] Essential Alchemic;4;Found in damp thickets and elsewhere.;
+Nascent Butterfly;1;[Rare] Ingenious Alchemic;12;Found rarely throughout The Lands Between.;
+Old Fang;1;[Rare] Ingenious Alchemic;6;Dropped by carnivorous beasts.;
+Poisonbloom;1;[Poison] Noxious Extract;6;Found on poisoned ground.;
+Rimed Crystal Bud;1;[Frostbite] Rimed Extract;3;Found in cold regions.;
+Rimed Rowa;1;[Common] Essential Alchemic;5;Found in Mountaintops of the Giants.;
+Rimed Rowa;1;[Frostbite] Rimed Extract;3;Found in Mountaintops of the Giants.;
+Root Resin;1;[Resin] Adhesive Amalgamate;5;Found near trees or the roots of the Greattree.;
+Rowa Fruit;1;[Common] Essential Alchemic;2;Found easily throughout The Lands Between.;
+Sacramental Bud;1;[Bloodloss] Bloody Extract;8;Found exceedingly rarely throughout The Lands Between.;
+Sanctuary Stone;1;[Gold] Golden Amalgamate;2;Found rarely near the remains of fallen ruins.;
+Silver Firefly;1;[Silver] Silvery Amalgamate;4;Found near cold waters untouched by sunlight.;
+Silver Tear Husk;1;[Silver] Silvery Amalgamate;3;Found in and around the Eternal City.;
+Sliver of Meat;1;[Flesh] Gory Amalgamate;3;Dropped by herbivorous beasts.;
+Slumbering Egg;1;[Sleep] Sedative Extract;10;Dropped by Owl.;
+Smoldering Butterfly;1;[Fire] Blazing Substance;9;Found near wildfires and elsewhere.;
+Strip of White Flesh;1;[Flesh] Gory Amalgamate;3;Dropped by creatures devoid of blood.;
+Tarnished Golden Sunflower;1;[Holy] Blessed Substance;1;Found near Minor Erdtrees.;
+Toxic Mushroom;1;[Scarlet Rot] Scarlet Extract;4;Found at/near rotten lands.;
+Trina's Lily;1;[Sleep] Sedative Extract;12;Found exceedingly rarely throughout The Lands Between.;
+Turtle Neck Meat;1;[Flesh] Gory Amalgamate;4;Dropped by Miriel; Pastor of Vows.
+Volcanic Stone;1;[Fire] Blazing Substance;1;Found near Mt. Gelmir.;
+Yellow Ember;1;[Madness] Maddening Extract;4;Found at/near lands afflicted by frenzy.;

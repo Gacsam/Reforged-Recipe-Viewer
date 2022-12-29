@@ -20,7 +20,7 @@ namespace CraftingTool
             currentIngredientMaterials = ingredientBases;
             allMaterialsToIngredients = breakdownList;
             InitializeComponent();
-            Text = "[MUTLIUSE] can be used for other ingredients";
+            Text = "[MUTLIUSE] material can be used for other ingredients";
             TopMost = true;
         }
 

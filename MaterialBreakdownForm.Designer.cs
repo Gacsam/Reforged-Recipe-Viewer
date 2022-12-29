@@ -62,6 +62,7 @@ namespace CraftingTool
             // 
             // pictureBox1
             // 
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.Control;
             this.pictureBox1.Location = new System.Drawing.Point(246, 74);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(200, 200);
@@ -96,7 +97,7 @@ namespace CraftingTool
             this.textBox1.Size = new System.Drawing.Size(434, 57);
             this.textBox1.TabIndex = 5;
             // 
-            // IngredientForm
+            // MaterialBreakdownForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -108,7 +109,7 @@ namespace CraftingTool
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.materialList);
             this.MaximizeBox = false;
-            this.Name = "IngredientForm";
+            this.Name = "MaterialBreakdownForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.IngredientForm_Load);
